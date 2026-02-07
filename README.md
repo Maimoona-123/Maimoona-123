@@ -17,9 +17,6 @@ I’m still learning and improving every day by building small projects and prac
 - Improving my JavaScript and React skills
 
 
-###  GitHub Activity
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Maimoona-123&theme=flat)
-
 ### 📫 Connect with me
 - Fiverr: (https://www.fiverr.com/s/WEAvDbR)
 - GitHub: https://github.com/Maimoona-123
