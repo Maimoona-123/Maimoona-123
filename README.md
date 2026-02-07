@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I’m Maimoona 
 
-<!--
-**Maimoona-123/Maimoona-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a frontend developer who enjoys building clean and simple user interfaces.  
+I mostly work with React and React Native and use Firebase for authentication and data handling.
 
-Here are some ideas to get you started:
+I’m still learning and improving every day by building small projects and practicing regularly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Skills
+- HTML, CSS, JavaScript
+- React JS
+- React Native
+- Firebase (Auth & Realtime Database)
+
+###  What I’m working on
+- React Native apps with authentication
+- Beginner-friendly UI projects
+- Improving my JavaScript and React skills
+
+
+###  GitHub Activity
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Maimoona-123&theme=flat)
+
+### 📫 Connect with me
+- Fiverr: (https://www.fiverr.com/s/WEAvDbR)
+- GitHub: https://github.com/Maimoona-123
